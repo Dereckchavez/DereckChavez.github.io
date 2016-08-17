@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color: rgb(232, 240, 130);
 }
 
 h2{
@@ -21,11 +21,11 @@ h2{
 }
 
 #main {
-    padding: 20px;
+    padding: 30px;
 }
 
 a {
-    color: rgb(70, 118, 63);
+    color: rgb(77, 125, 200);
     text-decoration: none;
 }
 
@@ -63,7 +63,7 @@ img{
 
 .redacted{
     background-color: rgb(215, 206, 199);
-    color:  rgb(215, 206, 199);
+    color:  rgb(130, 206, 199);
 }
 
 .half{
